@@ -19,7 +19,7 @@ Together, we unpack and surface the *real job* they’re hiring us for, then pic
 
 ---
 
-- 👀 I’m passionate about **product design, UX engineering, and developer experience**.  
+- 👀 I’m passionate about **Multi layer problems, UX engineering, developer experience, Agentic AI Experience**.  
 - 🌱 Currently learning **product management for designers**.  
 - 💞️ I love collaborating on **open source, side projects, and early-stage product experiments**.  
 - 📫 Reach me at **sudeep.mp.in@gmail.com**
