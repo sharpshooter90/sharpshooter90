@@ -1,17 +1,6 @@
 
 <p align="center">
-<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/e0867699-3f15-42e0-bcb6-277baf5f00a4" />
-</p>
-
-<p align="center">
-  <img width="720" height="180" alt="Animated dithered diamond cover" src="./assets/builder-zone-cover.svg" />
-</p>
-
-<h1 align="center">Hey, I'm Sudeep 👋</h1>
-
-<p align="center">
-  Product Designer • B2B • o11y • DevTools • Design Engineer • PLG • CRM • SaaS<br/>
-  Options Trading • Social Trading • Developer Experience • Zero to One
+  <img width="1400" height="350" alt="Hey, I'm Sudeep 👋 — Product Designer • B2B • o11y • DevTools • Design Engineer • PLG • CRM • SaaS • Options Trading • Social Trading • Developer Experience • Zero to One" src="./assets/profile-cover.svg" />
 </p>
 
 ---
