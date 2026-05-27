@@ -3,6 +3,10 @@
 <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/e0867699-3f15-42e0-bcb6-277baf5f00a4" />
 </p>
 
+<p align="center">
+  <img width="720" height="180" alt="Animated dithered diamond cover" src="./assets/builder-zone-cover-animated-calm.svg" />
+</p>
+
 <h1 align="center">Hey, I'm Sudeep 👋</h1>
 
 <p align="center">
