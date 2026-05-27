@@ -1,6 +1,17 @@
 
 <p align="center">
-  <img width="1400" height="350" alt="Hey, I'm Sudeep 👋 — Product Designer • B2B • o11y • DevTools • Design Engineer • PLG • CRM • SaaS • Options Trading • Social Trading • Developer Experience • Zero to One" src="./assets/profile-cover.svg" />
+  <img width="1400" height="175" alt="" src="./assets/cover-top.svg" />
+</p>
+
+<h1 align="center">Hey, I'm Sudeep 👋</h1>
+
+<p align="center">
+  Product Designer • B2B • o11y • DevTools • Design Engineer • PLG • CRM • SaaS<br/>
+  Options Trading • Social Trading • Developer Experience • Zero to One
+</p>
+
+<p align="center">
+  <img width="1400" height="175" alt="" src="./assets/cover-bottom.svg" />
 </p>
 
 ---
