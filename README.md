@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img width="720" height="180" alt="Animated dithered diamond cover" src="./assets/builder-zone-cover-animated-calm.svg" />
+  <img width="720" height="180" alt="Animated dithered diamond cover" src="./assets/builder-zone-cover.svg" />
 </p>
 
 <h1 align="center">Hey, I'm Sudeep 👋</h1>
